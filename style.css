@@ -352,7 +352,13 @@ h6{
 }
    
 }
+@media(max-width: 468px){
 
+   .image-content {
+    position: absolute;
+    inset: 0;
+    transform: translatex(50px) !important;
+   }}
 /*****************************************************
             TEAM
 *****************************************************/
