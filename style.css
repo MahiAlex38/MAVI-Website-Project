@@ -201,6 +201,26 @@ section{
     display: flex;
     justify-self: center;
 }
+@media(max-width: 769px){
+.content-title h3, h3, h4{
+    font-size: 20px !important;
+
+}
+h6{
+    font-size: 18px !important;
+
+}
+}
+@media(max-width: 500px){
+.content-title h3, h3, h4{
+    font-size: 20px !important;
+
+}
+h6{
+    font-size: 18px !important;
+
+}
+}
 
 /*****************************************************
             SERVICES
